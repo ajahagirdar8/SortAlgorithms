@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="SelectionSort/SelectionSort.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SelectionSort/RandomShuffle.cs">
+    <Files>
+      <File FileName="SelectionSort/Selection.cs" Line="15" Column="5" />
+      <File FileName="SelectionSort/Program.cs" Line="18" Column="37" />
+      <File FileName="SelectionSort/Insertion.cs" Line="18" Column="21" />
+      <File FileName="SelectionSort/RandomShuffle.cs" Line="2" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
